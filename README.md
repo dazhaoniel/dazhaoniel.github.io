@@ -1,2 +1,2 @@
 # dazhaoniel.github.io
-GitHub Pages for various personal projects
+GitHub Pages for my various personal projects
